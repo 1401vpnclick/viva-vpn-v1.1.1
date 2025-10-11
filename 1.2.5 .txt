@@ -1,1 +1,6 @@
-.
+"version":"2.0",  
+  "title":"اطلاعیه مهم",  
+  "description":"عضویت شما برسی میشود و سرورها بعد عضو شدن در کانال اصلی ما بروز میشود ❤️ در کانال تلگرام ما عضو شوید.",  
+  "download":"tg://join?invite=ajgm9AAnEvM4Nzk0",  
+  "buttonno":"no"  
+}
