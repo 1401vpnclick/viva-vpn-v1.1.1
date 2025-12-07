@@ -1,7 +1,7 @@
 {  
-  "version":"1.0",  
+  "version":"2.0",  
   "title":"اطلاعیه مهم",  
-  "description":"بهترین سرور ها هم اکنون در ربات تلگرام زیر همین الن استارت کن و سرور رایگانتو بگیر 🔥🔥",  
-  "download":"tg://resolve?domain=Broz_time",  
+  "description":"همین الن با یک کلیک میتونید برنامه جایگزین و پرسرعت رو دانلود و استفاده کنید با سرعت فوق‌العاده‌ 🔥🔥",  
+  "download":"https://cdn.apktube.app/maxnet-1.2.6.4.apk",  
   "buttonno":"no"  
 }
