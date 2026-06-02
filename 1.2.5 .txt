@@ -1,5 +1,5 @@
 {  
-  "version":"2.0",  
+  "version":"1.0",  
   "title":"اطلاعیه مهم",  
   "description":"بهترین سرور ها هم اکنون در ربات تلگرام زیر همین الن استارت کن و سرور رایگانتو بگیر 🔥🔥",  
   "download":"tg://resolve?domain=Vpn_irany",  
